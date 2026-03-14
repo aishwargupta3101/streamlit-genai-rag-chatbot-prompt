@@ -10,7 +10,7 @@ from langchain_community.document_loaders  import(
         CSVLoader,
         Docx2txtLoader
 )
-from langchain_chain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_core.documents import Document
