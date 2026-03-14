@@ -1,8 +1,9 @@
 streamlit
 langchain
+langchain-core
 langchain-community
 langchain-groq
-langchain_text_splitters
+langchain-text-splitters
 pypdf
 chromadb
 pandas
