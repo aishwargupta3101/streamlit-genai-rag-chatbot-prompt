@@ -13,3 +13,6 @@ pillow
 pytesseract
 sentence-transformers
 docx2txt
+gTTS
+openai-whisper
+streamlit-audiorecorder
